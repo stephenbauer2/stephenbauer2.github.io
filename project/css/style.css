@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display|Roboto:400,700');
+
+header {
+  color: blue
+}
+
+body {
+  background-color: yellow;
+}
+
+div h2 {
+  color: yellow;
+}
+
+div button {
+  margin: 5px 0;
+  padding: 15px;
+  background-color: yellow;
+}
+
+/* My IDs */
+#headerLeft {
+  height: 800px;
+  background-image: url(https://i2-prod.liverpoolecho.co.uk/incoming/article7006879.ece/ALTERNATES/s810/lionking.jpg);
+  background-size: cover;
+  background-position: center;
+}
